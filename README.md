@@ -1,4 +1,4 @@
-# Toy Language Interpreter
+# CoreLang
 
 An **interpreter** for a custom toy programming language, built as an educational project to explore compiler design concepts such as lexical analysis, parsing, execution, and memory management. It was developed to understand how **interpreters and programming languages** work internally — from syntax trees to runtime execution.
 It has support for:
